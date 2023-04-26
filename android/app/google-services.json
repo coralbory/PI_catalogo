@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747949203118",
+    "project_id": "pi-catalogo",
+    "storage_bucket": "pi-catalogo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747949203118:android:6528f66c3d0d3565d7173f",
+        "android_client_info": {
+          "package_name": "com.example.pi_catalogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747949203118-29roh3471g98tse2v2h6888b7m5845jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vtOQlhGvD7Jzf-LlIQAE4WQt7lki8cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747949203118-29roh3471g98tse2v2h6888b7m5845jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
